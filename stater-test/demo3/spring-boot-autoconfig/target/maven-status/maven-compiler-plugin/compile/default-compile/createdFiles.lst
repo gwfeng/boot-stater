@@ -1,0 +1,4 @@
+org\example\config\RedisProperties.class
+org\example\config\JedisPoolConfigProperties.class
+org\example\config\MyRedisAutoConfigulation.class
+org\example\config\RedisCondition.class

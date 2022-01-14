@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/redis-spring-boot-stater/redis-spring-boot-stater.iml" filepath="$PROJECT_DIR$/redis-spring-boot-stater/redis-spring-boot-stater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/starter-demo.iml" filepath="$PROJECT_DIR$/.idea/starter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stater-test/stater-test.iml" filepath="$PROJECT_DIR$/stater-test/stater-test.iml" />
+    </modules>
+  </component>
+</project>
